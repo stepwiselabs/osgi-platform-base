@@ -4,6 +4,4 @@ The primary goal of this bundle is to provide OSGi extension points and services
 The public APIs should only be as complex as our application demands them to be.  The following features will be examined:
 - Pluggable authentication and ABAC authorization
 - OSGi Blueprint Dependency Injection
-- JAX-RS resource deployment/metrics/and management
-- Structured logging with pluggable appenders (Splunk integration)
-- Server side extensions to client side UI constructs via ReactJs Components
+
